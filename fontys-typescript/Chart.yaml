@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: fontys-typescript
+description: Chart to configure ArgoCD with the fontys-typescript project and its applications
